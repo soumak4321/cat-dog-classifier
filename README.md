@@ -22,4 +22,4 @@ The model achieved approximately 93% accuracy.
 Cats vs Dogs Dataset
 
 ## Author
-Your Name
+Soumak Paul
